@@ -2,6 +2,6 @@
 *.png
 *.csv
 kicad/*.txt
-
+gerber/*
 *.ods
 

@@ -1,0 +1,32 @@
+Drill report for /home/mm/projects/tc2/kicad/tc2.kicad_pcb
+Created on Wed 05 Apr 2017 10:49:20 PM CEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'tc2.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.51mm  0.020"  (16 holes)
+    T2  0.60mm  0.024"  (12 holes)
+    T3  0.70mm  0.028"  (8 holes)
+    T4  0.80mm  0.031"  (76 holes)
+    T5  0.81mm  0.032"  (34 holes)
+    T6  0.90mm  0.035"  (19 holes)
+    T7  1.00mm  0.039"  (17 holes)
+    T8  1.00mm  0.039"  (9 holes)
+    T9  1.27mm  0.050"  (1 hole)
+    T10  1.30mm  0.051"  (23 holes)
+    T11  5.00mm  0.197"  (4 holes)
+
+    Total plated holes count 219
+
+
+Drill file 'tc2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
