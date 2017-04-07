@@ -4,4 +4,4 @@
 kicad/*.txt
 kicad/gerber/*
 *.ods
-
+*~
